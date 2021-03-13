@@ -70,14 +70,14 @@
 
 #### Up, Down, Right, Left, and Shoot button for players
 
-####    Player One
+#### Player One
 #### 1. Up arrow key to move the tank up or attack when a player in the up direction
 #### 2. Down arrow key moves the tank down or attack when a player in down direction.
 #### 3. Left arrow key to move the tank left or attack when a player in the left direction.
 #### 4. Right arrow key to move the tank right or attack when a player in the right direction.
 #### 5. Return the key to shoot the player or break the walls.
 
-####    Player Two
+#### Player Two
 #### 1. W key to move the tank up or attack when a player in the up direction
 #### 2. S key move the tank down or attack when a player in the down direction.
 #### 3. A key to move the tank left or attack when a player in the left direction.
