@@ -1,9 +1,4 @@
-# Assignment 3 – Tank Game  
-# CSC 413 Project Documentation Summer 2020
-
-## Student Name  : Rajdeep Singh
-## Student ID    : 920258882
-
+# Tank Game  
 
 ## Project Information
 #### This documentation will give you in-depth information about the term project. Each section will provide you with a general overview of the tank game project. Some sections are extremely important such as How to Build/Import Project, “How to Run the Project.” “Game Rules and Guide” and Game Control.” Also, read the class descriptions of the tank game of specific classes carefully because it explains each class in detail. This project was a little hard due to less time period. This documentation will reflect on my struggles and time managed to complete the tank game with proper Object-Oriented Principle (OOP) during the project.
@@ -147,7 +142,6 @@
 ####   a. https://opengameart.org
 ####   b. https://www.123rf.com
 ####   c. https://www.gameart2d.com
-#### 3. Slack Channel: SFSU Computer Science
 
 
 
